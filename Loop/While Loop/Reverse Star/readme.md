@@ -125,28 +125,4 @@ Increase i → growing pattern
 Decrease i → shrinking pattern
 ```
 
----
 
-## 🏆 Why this is PRO-level
-
-You now understand:
-
-* Nested `while` loops
-* Pattern logic (not memorization)
-* How changing conditions changes shapes
-* Both increasing & decreasing triangles
-
-This is **interview-grade understanding**.
-
----
-
-## 🚀 Want to go further?
-
-Next we can do:
-1️⃣ Number patterns
-2️⃣ Pyramid (centered)
-3️⃣ Diamond pattern
-4️⃣ Convert patterns into functions
-5️⃣ Explain how interviewers expect you to think
-
-Just tell me which one you want 👌
